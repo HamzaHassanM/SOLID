@@ -62,4 +62,4 @@ To get started with the examples, clone this repository and follow the instructi
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/solid-laravel.git
+git clone https://github.com/HamzaHassanM/SOLID
