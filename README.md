@@ -16,8 +16,8 @@ Each principle is illustrated with code samples and explanations to help you und
 
 ### Examples
 
-- **Single Responsibility Principle (SRP)**
-- **Open/Closed Principle (OCP)**
+- [**Single Responsibility Principle (SRP)**](https://github.com/HamzaHassanM/SOLID/blob/main/Single%20Responsibility%20Principle.md)
+- [**Open/Closed Principle (OCP)**](https://github.com/HamzaHassanM/SOLID/blob/main/Open%20Closed%20Principle.md)
 - **Liskov Substitution Principle (LSP)**
 - **Interface Segregation Principle (ISP)**
 - **Dependency Inversion Principle (DIP)**
@@ -34,8 +34,8 @@ Explore the examples and see how applying SOLID principles can improve your code
 
 تتضمن مبادئ SOLID:
 
-- **S**: مبدأ المسؤولية الواحدة
-- **O**: مبدأ الفتح/الإغلاق
+- [**S**: مبدأ المسؤولية الواحدة](https://github.com/HamzaHassanM/SOLID/blob/main/Arabic/Open%20Closed%20Principle.md)
+- [**O**: مبدأ الفتح/الإغلاق](https://github.com/HamzaHassanM/SOLID/blob/main/Arabic/Single%20Responsibility%20Principle.md)
 - **L**: مبدأ استبدال ليسكوف
 - **I**: مبدأ تقسيم الواجهة
 - **D**: مبدأ عكس الاعتماديات
